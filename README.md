@@ -36,11 +36,15 @@ ________________________________
 IMPORTANT 🌟
 after upload you see a EYEanimation if you want goto the menu long press the selectButton 🖤
 _______________________________
+
+_______________________
 Rasberry Pico Pinout 🥰
+__      ____      _____
 
 ![IMG_20250512_172335](https://github.com/user-attachments/assets/c76c02b4-a763-4cab-ba6a-05912527c137)
 
 IR Transmitter PinConnection 😉
+_____  _____   ______    ______
 
 ![IMG_20250512_173347](https://github.com/user-attachments/assets/a64a6c2c-2157-4a8a-b6f7-6c4bb0dfd9a4)
 
@@ -73,7 +77,9 @@ BUTTONs ♟
 _________________________________
 IR LED  🏴‍☠️
 
-|POSITIVE = 11 gpio|
+|Positive = 3.3v OR 5v|
+
+|SIG = 11 gpio|
 
 |GND = GND|
 _________________________________
