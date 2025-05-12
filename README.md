@@ -2,7 +2,9 @@
 # This PowerFull Tool is Based Raspberry Pico Microcontroller.
 # Features: SD Card Support,IR support,RTC Support,HID attacks support we can take script frome sd card,Game support,TVBGONE support,MY Own version ProjectorGone is support,IR jammer,SD card files editing,real Time and Date,year,month also show in device 
 More Details: instagram -> ashwin_hhhhh
-🔗 link: https://www.instagram.com/ashwin_hhhhh?igsh=MTlqNmVwZ2ppNHdzaA==
+🔗link: https://www.instagram.com/ashwin_hhhhh?igsh=MTlqNmVwZ2ppNHdzaA==
+
+![IMG_20250510_121140](https://github.com/user-attachments/assets/e6be0a3f-15b0-4d36-b993-3a073c4587a4)
 
 UPLOAD 
 __________________________&_____
@@ -14,7 +16,8 @@ ________________________________
 IMPORTANT 🌟
 after upload you see a animation if you want goto the menu long press the selectButton.
 
-PIN Configuration 
+PIN Configuration 🐱‍👤
+________________________________
 
 SD CARD = CS, 17gpio
           MOSI,19gpio
@@ -40,7 +43,9 @@ RTC MODULE = SDA,0gpio
             SCL,1gpio
             GND,GND
             VCC,VCC
-
+________________________________
 It's Just a Starting Point 😈
 just wait and Watch Other Versions 
--end- not Completely 😈🤫
+-end- 
+not Completely 😈🤫
+________________________________
