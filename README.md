@@ -41,7 +41,7 @@ _______________________
 Rasberry Pico Pinout 🥰
 
 ![IMG_20250512_172335](https://github.com/user-attachments/assets/c76c02b4-a763-4cab-ba6a-05912527c137)
-
+_______________________
 IR Transmitter PinConnection 😉
 
 ![IMG_20250512_173347](https://github.com/user-attachments/assets/a64a6c2c-2157-4a8a-b6f7-6c4bb0dfd9a4)
