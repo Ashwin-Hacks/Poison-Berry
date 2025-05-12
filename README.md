@@ -39,6 +39,7 @@ _______________________________
 PIN Configuration 🐱‍👤
 
 SD CARD 🤠 
+
 |CS = 17 gpio|
 
 |MOSI = 19 gpio|
@@ -52,25 +53,39 @@ SD CARD 🤠
 |VCC = 3.3v|
 _________________________________
 BUTTONs ♟
+
 |UPBUTTON = 15 gpio|
+
 |DOWNBUTTON = 14 gpio|
+
 |SELECTBUTTON = 13 gpio|
+
 |BACKBUTTON = 12 gpio|
 _________________________________
 IR LED  🏴‍☠️
+
 |POSITIVE = 11 gpio|
+
 |GND = GND|
 _________________________________
 RTC MODULE 🧭
+
 |SDA = 0 gpio|
+
 |SCL = 1 gpio|
+
 |GND = GND|
+
 |VCC = VCC|
 _________________________________             
 0.96 OLED 💘
+
 |SDA = 0 gpio|
+
 |SCL = 1 gpio|
+
 |GND = GND|
+
 |VCC = VCC|
 ________________________________
 It's Just a Starting Point 😈
