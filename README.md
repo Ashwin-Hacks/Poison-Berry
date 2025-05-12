@@ -57,14 +57,10 @@ POSITIVE = 11gpio
 GND = GND
 _________________________________
 RTC MODULE 🧭
-SDA =
-0gpio
-SCL = 
-1gpio
-GND =
-GND
-VCC =
-VCC
+|SDA = 0gpio|
+|SCL = 1gpio|
+|GND = GND|
+|VCC = VCC|
 _________________________________             
 0.96 OLED 💘
 SDA = 0gpio
