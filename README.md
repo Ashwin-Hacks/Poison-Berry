@@ -15,7 +15,7 @@ _____________________________________________________________________
 # $Animations 😶
 # $real Time and Date,year,month also show in device 😇
 _______________________________________________________________________
-_![IMG_20250507_203920](https://github.com/user-attachments/assets/72635c88-b0e5-4c43-bdac-f3b5d1368554)
+![IMG_20250512_171248](https://github.com/user-attachments/assets/b766bbdc-9257-45e4-90f7-e662d7c0eda3)
 ________________________________________________________________________
 More Details: instagram -> ashwin_hhhhh
 🔗link: https://www.instagram.com/ashwin_hhhhh?igsh=MTlqNmVwZ2ppNHdzaA==
