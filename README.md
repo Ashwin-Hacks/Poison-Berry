@@ -18,6 +18,7 @@ _______________________________________________________________________
 ![IMG_20250512_171248](https://github.com/user-attachments/assets/b766bbdc-9257-45e4-90f7-e662d7c0eda3)
 ________________________________________________________________________
 More Details: instagram -> ashwin_hhhhh
+
 🔗link: https://www.instagram.com/ashwin_hhhhh?igsh=MTlqNmVwZ2ppNHdzaA==
 ________________________________________________________________________
 ________________________________
@@ -31,10 +32,12 @@ just Download this PoisonBerryUF2 file By Clicking The Releases and hold the boo
 ![Screenshot (7)](https://github.com/user-attachments/assets/c47301ac-52c3-4ae8-a133-e647b7a6a19b)
 
 Importenst Thing 🌟
-The Device Only Work If You Do This Step 😫
+
+$The Device Only Work If You Do This Step 😫
 ________________________________
 IMPORTANT 🌟
-after upload you see a EYEanimation if you want goto the menu long press the selectButton 🖤
+
+$after upload you see a EYEanimation if you want goto the menu long press the selectButton 🖤
 _______________________________
 
 _______________________
