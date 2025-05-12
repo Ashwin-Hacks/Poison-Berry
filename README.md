@@ -1,4 +1,4 @@
-![IMG_20250512_173347](https://github.com/user-attachments/assets/74c8d3d8-65c6-49ef-abec-46f51e4ed19c)_____________________________________________________________________
+_______________________________________________________________________
 # $Poison-Berry V1 🐋
 # $This PowerFull Tool is Based Raspberry Pico Microcontroller 👽🐱‍👓🐱‍🏍
 # $Features: 🤑
