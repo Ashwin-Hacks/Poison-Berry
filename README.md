@@ -23,9 +23,9 @@ ________________________________________________________________________
 ________________________________
 UPLOAD Tips 🤗
 ________________________________
-How to Upload This UF2File ?????
+How to Upload This UF2File 🤔????? 
 one of the easiest thing we can do 
-just copy this PoisonBerryUF2 file and hold the boot button in your raspberry Pico before you connect the usb cable after you connect the cable release the button  now it show like pendrive now just paste the PoisonBerryUF2file into the raspberry pico that's it 
+just Download this PoisonBerryUF2 file By Clicking The Releases and hold the boot button in your raspberry Pico before you connect the usb cable after you connect the cable release the button  now it show like pendrive now just paste the PoisonBerryUF2file into the raspberry pico that's it 
 (for experts : paste the uf2 file after put te raspberry pico into bootloader mode)
 ________________________________
 IMPORTANT 🌟
