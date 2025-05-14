@@ -49,8 +49,12 @@ IR Transmitter PinConnection 😉
 
 ![InShot_20250512_204538164](https://github.com/user-attachments/assets/a510a836-fc97-4e76-9610-9ccbf21ee4a6)
 
-
 _______________________________
+How To Add Hid Script to This Device 🐬
+Its Very Simple Thing Just Copy The txt file inside The HID SCRIPT Folder and Paste into sdcard That's it 🌟
+$IF you Want Make Your Own Script
+$I will Update soon The Requairement to make that its very easy 
+______________________________
 PIN Configuration 🐱‍👤
 
 SD CARD 🤠 
