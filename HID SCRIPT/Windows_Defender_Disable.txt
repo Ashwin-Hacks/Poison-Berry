@@ -1,0 +1,36 @@
+REM Step 1: Press Windows key
+GUI
+DELAY 1000
+REM Step 3: Type "Windows Security"
+STRING Windows Security
+DELAY 1000
+REM Step 5: Press Enter
+ENTER
+DELAY 30000
+REM Step 7: Press Space once
+SPACE
+DELAY 300
+REM Step 8: Press Tab 4 times
+TAB
+DELAY 200
+TAB
+DELAY 200
+TAB
+DELAY 200
+TAB
+DELAY 200
+REM Step 9: Press Enter one time
+ENTER
+DELAY 500
+REM Step 10: Press Space one time
+SPACE
+DELAY 1000
+REM Step 11: Press Left Arrow
+LEFT
+DELAY 300
+REM Step 12: Press Enter
+ENTER
+DELAY 1000
+REM Step 13: Press ALT+F4 to close
+ALT + F4
+DELAY 1000
